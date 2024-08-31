@@ -1,0 +1,10 @@
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\bin\Debug\LittleGame(XO).exe.config
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\bin\Debug\LittleGame(XO).exe
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\bin\Debug\LittleGame(XO).pdb
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame(XO).csproj.AssemblyReference.cache
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame_XO_.Form1.resources
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame_XO_.Properties.Resources.resources
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame(XO).csproj.GenerateResource.cache
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame(XO).csproj.CoreCompileInputs.cache
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame(XO).exe
+C:\Users\Meow\Desktop\Прікольчики С#\LittleGame(XO)\obj\Debug\LittleGame(XO).pdb
